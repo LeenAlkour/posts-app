@@ -9,7 +9,7 @@ A modern and feature-rich Flutter application for creating, viewing, and comment
 ---
 
 ## 📱 Screenshots
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div  style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div>
     <h3>Main feed</h3>
     <img src="./screenshots/posts_screen.png" alt="Posts Screen" width="250" height="500">
