@@ -1,10 +1,10 @@
-import 'package:ebtech_task_flutter/core/theming/colors.dart';
+import 'package:posts_app/core/theming/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:ebtech_task_flutter/features/posts/logic/posts_provider.dart';
-import 'package:ebtech_task_flutter/core/theming/styles.dart';
+import 'package:posts_app/features/posts/logic/posts_provider.dart';
+import 'package:posts_app/core/theming/styles.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
-import 'package:ebtech_task_flutter/core/helpers/spacing.dart';
+import 'package:posts_app/core/helpers/spacing.dart';
 
 class DeletePostDialog extends StatelessWidget {
   final String postId;

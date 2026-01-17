@@ -1,8 +1,8 @@
-import 'package:ebtech_task_flutter/core/helpers/spacing.dart';
-import 'package:ebtech_task_flutter/core/theming/colors.dart';
-import 'package:ebtech_task_flutter/core/theming/styles.dart';
-import 'package:ebtech_task_flutter/features/posts/presentation/widgets/add_comment_bottom_sheet.dart';
-import 'package:ebtech_task_flutter/features/posts/presentation/widgets/delete_post_dialog.dart';
+import 'package:posts_app/core/helpers/spacing.dart';
+import 'package:posts_app/core/theming/colors.dart';
+import 'package:posts_app/core/theming/styles.dart';
+import 'package:posts_app/features/posts/presentation/widgets/add_comment_bottom_sheet.dart';
+import 'package:posts_app/features/posts/presentation/widgets/delete_post_dialog.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';

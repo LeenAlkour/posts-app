@@ -1,4 +1,4 @@
-import 'package:ebtech_task_flutter/features/posts/data/models/post_model.dart';
+import 'package:posts_app/features/posts/data/models/post_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:timeago/timeago.dart' as timeago;

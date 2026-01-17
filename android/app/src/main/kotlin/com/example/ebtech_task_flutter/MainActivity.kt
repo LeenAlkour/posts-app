@@ -1,4 +1,4 @@
-package com.example.ebtech_task_flutter
+package com.example.posts_app
 
 import io.flutter.embedding.android.FlutterActivity
 

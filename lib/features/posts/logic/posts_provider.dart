@@ -1,10 +1,10 @@
 // posts_provider.dart
 import 'package:flutter/material.dart';
 import 'package:dartz/dartz.dart';
-import 'package:ebtech_task_flutter/core/error_handler/failure.dart';
-import 'package:ebtech_task_flutter/features/posts/data/models/post_model.dart';
-import 'package:ebtech_task_flutter/features/posts/data/repositories/posts_repository.dart';
-import 'package:ebtech_task_flutter/core/error_handler/api_error_handler.dart';
+import 'package:posts_app/core/error_handler/failure.dart';
+import 'package:posts_app/features/posts/data/models/post_model.dart';
+import 'package:posts_app/features/posts/data/repositories/posts_repository.dart';
+import 'package:posts_app/core/error_handler/api_error_handler.dart';
 
 class PostsProvider extends ChangeNotifier {
   final PostsRepository repository;

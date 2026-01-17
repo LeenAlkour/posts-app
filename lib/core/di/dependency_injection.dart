@@ -1,8 +1,8 @@
 import 'package:dio/dio.dart';
 import 'package:get_it/get_it.dart';
-import 'package:ebtech_task_flutter/core/network/dio_factory.dart';
-import 'package:ebtech_task_flutter/features/posts/data/repositories/posts_repository.dart';
-import 'package:ebtech_task_flutter/features/posts/data/services/posts_api.dart';
+import 'package:posts_app/core/network/dio_factory.dart';
+import 'package:posts_app/features/posts/data/repositories/posts_repository.dart';
+import 'package:posts_app/features/posts/data/services/posts_api.dart';
 
 import '../../features/posts/logic/posts_provider.dart';
 

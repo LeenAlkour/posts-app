@@ -1,6 +1,6 @@
-import 'package:ebtech_task_flutter/core/di/dependency_injection.dart';
-import 'package:ebtech_task_flutter/core/routing/app_router.dart';
-import 'package:ebtech_task_flutter/features/posts/presentation/screens/posts_screen.dart';
+import 'package:posts_app/core/di/dependency_injection.dart';
+import 'package:posts_app/core/routing/app_router.dart';
+import 'package:posts_app/features/posts/presentation/screens/posts_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';

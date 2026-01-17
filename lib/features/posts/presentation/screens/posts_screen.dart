@@ -1,12 +1,12 @@
-import 'package:ebtech_task_flutter/core/routing/routes.dart';
+import 'package:posts_app/core/routing/routes.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:provider/provider.dart';
 import '../../logic/posts_provider.dart';
 import '../widgets/post_card.dart';
 import '../widgets/create_post_bottom_sheet.dart';
-import 'package:ebtech_task_flutter/core/theming/colors.dart';
-import 'package:ebtech_task_flutter/core/theming/styles.dart';
+import 'package:posts_app/core/theming/colors.dart';
+import 'package:posts_app/core/theming/styles.dart';
 
 class PostsScreen extends StatefulWidget {
   const PostsScreen({super.key});

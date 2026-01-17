@@ -1,7 +1,7 @@
 // posts_repository.dart
 import 'package:dartz/dartz.dart';
-import 'package:ebtech_task_flutter/core/error_handler/api_error_handler.dart';
-import 'package:ebtech_task_flutter/core/error_handler/failure.dart';
+import 'package:posts_app/core/error_handler/api_error_handler.dart';
+import 'package:posts_app/core/error_handler/failure.dart';
 import '../models/post_model.dart';
 import '../services/posts_api.dart';
 
