@@ -9,25 +9,38 @@ A modern and feature-rich Flutter application for creating, viewing, and comment
 ---
 
 ## 📱 Screenshots
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <div>
+    <h3>Main feed</h3>
+    <img src="./screenshots/posts_screen.png" alt="Posts Screen" width="250" height="500">
+  </div>
 
-<div align="center">
-  <h3>Main feed</h3>
-  <img src="./screenshots/posts_screen.png" alt="Posts Screen" width="250" height="500">
-  
-  <h3>Post details</h3>
-  <img src="./screenshots/post_details_screen.png" alt="Post Details" width="250" height="500">
-  
-  <h3>Add post</h3>
-  <img src="./screenshots/add_post.png" alt="Add post" width="250" height="500"> 
-   <h3>Delete post</h3>
-  <img src="./screenshots/delete_post.png" alt="Delete Post" width="250" height="500">
-   <h3>Update post</h3>
-  <img src="./screenshots/update_post.png" alt="Update Post" width="250" height="500">
-  
-  
-  <h3>Add comment</h3>
-  <img src="./screenshots/add_comment.png" alt="Add Comment" width="250" height="500">
+  <div>
+    <h3>Post details</h3>
+    <img src="./screenshots/post_details_screen.png" alt="Post Details" width="250" height="500">
+  </div>
+
+  <div>
+    <h3>Add post</h3>
+    <img src="./screenshots/add_post.png" alt="Add post" width="250" height="500">
+  </div>
+
+  <div>
+    <h3>Delete post</h3>
+    <img src="./screenshots/delete_post.png" alt="Delete Post" width="250" height="500">
+  </div>
+
+  <div>
+    <h3>Update post</h3>
+    <img src="./screenshots/update_post.png" alt="Update Post" width="250" height="500">
+  </div>
+
+  <div>
+    <h3>Add comment</h3>
+    <img src="./screenshots/add_comment.png" alt="Add Comment" width="250" height="500">
+  </div>
 </div>
+
 
 ## ✨ Features
 
